@@ -1,0 +1,1 @@
+select Dname as "DEPARTMENT NAME", count(EmpNo) as "NUMBER OF EMPLOYEE" from Department, Employee where Department.DeptNo=Employee.DeptNo group by Department.Dname

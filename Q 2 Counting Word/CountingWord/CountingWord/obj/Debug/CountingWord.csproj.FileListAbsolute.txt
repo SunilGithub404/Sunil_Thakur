@@ -1,0 +1,5 @@
+C:\Users\S_Thakur.S_Thakur-PC.000\Desktop\Asp.Net\CountingWord\CountingWord\bin\Debug\CountingWord.exe.config
+C:\Users\S_Thakur.S_Thakur-PC.000\Desktop\Asp.Net\CountingWord\CountingWord\bin\Debug\CountingWord.exe
+C:\Users\S_Thakur.S_Thakur-PC.000\Desktop\Asp.Net\CountingWord\CountingWord\bin\Debug\CountingWord.pdb
+C:\Users\S_Thakur.S_Thakur-PC.000\Desktop\Asp.Net\CountingWord\CountingWord\obj\Debug\CountingWord.exe
+C:\Users\S_Thakur.S_Thakur-PC.000\Desktop\Asp.Net\CountingWord\CountingWord\obj\Debug\CountingWord.pdb

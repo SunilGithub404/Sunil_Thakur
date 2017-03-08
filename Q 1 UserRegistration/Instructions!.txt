@@ -1,0 +1,2 @@
+1. Please first run the  databsae script,, Create the table in sql2008,
+2. Please Change the connection string according to your computer in web.config file. then run the program.
